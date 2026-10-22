@@ -22,7 +22,7 @@ Owned product strategy, roadmap, requirements, user stories, and backlog priorit
 
 ### Omnichannel Web Sales — X7 Brasil
 
-Developed product strategy and roadmap for web sales applications supporting online, mobile, social, email, and in-store channels. I used business priorities, user feedback, and research to shape the roadmap, prioritized the backlog, and presented plans to executives. I also helped establish and develop the Omnichannel Marketing function. No verified sales or adoption metrics are available for this product case.
+Developed product strategy and roadmap for web sales applications supporting online, mobile, social, email, and in-store channels. I used business priorities, user feedback, and research to shape the roadmap, prioritized the backlog, and presented plans to executives. I established and developed the Omnichannel Marketing department. No verified sales or adoption metrics are available for this product case.
 
 [Read the X7 case study](https://github.com/alvaroadriano/product-management-portfolio/blob/main/x7-omnichannel-sales-product.md)
 
